@@ -1,5 +1,5 @@
 <p align="center">
-    ![Header](./image.png)
+    <img src = "https://gitbanner.js.org/">
 </p>
 
 <p align="center">
