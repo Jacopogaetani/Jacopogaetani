@@ -1,6 +1,7 @@
-<div align="center">
+<p align="center">
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=jacopo%20Typer%20👨‍💻&width=400&height=200&align=center)](https://github.com/Akshay090/svg-banners)
-</div>
+</p>
+
 <p align="center">
 <img src ="https://tenor.com/view/gundam-wing-hello-kitty-battle-fight-me-showdown-gif-14899212.gif" alt = "gundam">
 </p>
