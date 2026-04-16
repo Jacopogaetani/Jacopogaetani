@@ -11,6 +11,8 @@
 name: Jacopo Gaetani
 located_in: Italy
 Studend: true
+Ambitions and goals: Cyber security analyst
+
 education:
   [
     "3rd year of High school IT - Computer science",
@@ -20,6 +22,7 @@ education:
 favourite videogames:
   [
       "Clair Obscur: Expedition 33",
+      "Persona 5",
       "Baldur's gate 3",
       "Watch dogs 2",
       "Bloodborne",
