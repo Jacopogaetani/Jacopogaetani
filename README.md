@@ -1,7 +1,7 @@
 
     
 <p align="center">
-<img src ="https://tenor.com/view/akira-kurusu-ren-amamiya-joker-persona-5-persona-5-royal-gif-8869241111577940889" alt = "persona">
+<img src ="https://tenor.com/kJlnHDR2FG9.gif" alt = "persona">
 </p>
 
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
