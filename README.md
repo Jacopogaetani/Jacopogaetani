@@ -1,9 +1,7 @@
 
     
 <p align="center">
-<img src ="https://tenor.com/kJlnHDR2FG9.gif" alt = "persona">
-</p>
-
+<img src="https://media.tenor.com/iGNaZhfwB78AAAAC/duck-dance.gif" width="300" alt="Paperella che balla">
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 
