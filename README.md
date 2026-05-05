@@ -1,7 +1,8 @@
-
-    
 <p align="center">
-<img src="https://media.tenor.com/iGNaZhfwB78AAAAC/duck-dance.gif" width="300" alt="Paperella che balla">
+<img src = immagini/joker-persona-5.gif alt = "Joker">
+</p>
+
+
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 
