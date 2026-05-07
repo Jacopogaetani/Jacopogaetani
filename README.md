@@ -9,8 +9,8 @@
 ```yaml
 name: Jacopo Gaetani
 located_in: Italy
-Studend: true
-Ambitions_and_goals: Cyber security analyst
+Student: !false
+Ambitions_and_goals: (Cyber security analyst || Game designer) && Form a punk rock band 
 
 education:
   [
@@ -36,7 +36,10 @@ hobbies:
         "Nirvana",
         "Linkin park",
         "Minor threat",
+        "Descentants",
     ]
+
+    "Strumming my guitar"
 
     
   ]
