@@ -1,68 +1,100 @@
-<p align="center">
-<img src = immagini/joker-persona-5.gif alt = "Joker">
-</p>
+<!--
+  Special thanks to Glauedson for creating this marvellous thing. Love ya!!
+
+  YOU'LL NEVER SEE IT COMING!!
+-->
+
+<!-- Banner  -->
+
+<div align="center">
+  <a href="https://github.com/Jacopogaetani">
+    <img src="immagini/joker-persona-5.gif" alt="Banner"  style="width:100%; height:auto"/ >
+  </a>
+</div>
+
+<div align="center">
+
+  <a href="https://api.github-star-counter.workers.dev/user/Jacopogaetani">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Profile" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jacopogaetani" /> 
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/Jacopogaetani">
+    <img width="111px" 
+        alt="forks" 
+        title="Forks Repository" 
+        src="https://custom-icon-badges.demolab.com/github/forks/Jacopogaetani/Jacopogaetani?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
+  <a href="https://github.com/Jacopogaetani?tab=followers">
+    <img width="150px" 
+        alt="Followers" 
+        title="Github Followers" 
+        src="https://custom-icon-badges.herokuapp.com/github/followers/Jacopogaetani?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  </a>
+</div>
+
+</br>
+
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
+
+As a **3rd-year IT student** I’m absolutely in love with this field! There is nothing better than learning the 'why' behind the tech we use every day. My favorite subject right now is **Systems and Networks**, where we explore the inner workings of a PC. I can’t wait to start learning how computers communicate across networks in the coming years!
+
+I have a basic knowledge of procedural programming languages such as **C** and **C++**. I am currently studying **Object-Oriented Programming** in **Java**. I also have solid skills in **web design** using **HTML** and **CSS**. For my personal projects, I use **Linux-based operating systems** and have developed strong competencies in **Bash** and **ricing Hyprland**.
+
+In my free time I like playing videogames, my favourites are **Persona 5** (As you might have understand from this readme :P ), and **Clair-Obscur: Expedition 33**. I play guitar and I am into punk music, my favourite bands are **Minor threat** (Straight Edge for life X), **Descendants** and **S.T**  
+
+</div>
+
+> [!Caution]
+>
+> Code is never finished, it only gets **better**.
+>
+> What you see here is built with **practice**, **curiosity**, and **persistence**.
+
+</br>
+
+<!-- My contributions title -->
+<div align="center">
+<img src="immagini/persona5-akira-kurusu.gif" width="50%">
+</br>
+</br>
+</div>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacopogaetani&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="immagini/callingcard.jpg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=linux,arch,kali,redhat,ubuntu,debian,mint,bash" /><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,python,godot,replit" /><br>
+      <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,visualstudio,vscode,git,github,docker" /><br>
+    </td>
+    <!---->
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=Jacopogaetani&repo=3Ai-2025-26&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacopogaetani&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 
-```yaml
-name: Jacopo Gaetani
-located_in: Italy
-Student: !false
-Ambitions_and_goals: (Cyber security analyst || Game designer) && Form a punk rock band 
-
-education:
-  [
-    "3rd year of High school IT - Computer science",
-    "Self-tauhght in Linux world!",
-  ]
-
-favourite videogames:
-  [
-      "Clair Obscur: Expedition 33",
-      "Persona 5",
-      "Baldur's gate 3",
-      "Watch dogs 2",
-      "Bloodborne",
-  
-  ]
-hobbies:
-  [
-    "Dungeons and Dragons with my friends",
-    "Music",
-    favourite bands:
-    [
-        "Nirvana",
-        "Linkin park",
-        "Minor threat",
-        "Descentants",
-    ]
-
-    "Strumming my guitar"
-
-    
-  ]
-  
-```
-
-<p align="center">
-<img src = immagini/persona5-akira-kurusu.gif alt = "Joker">
-</p>
-
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have fun using</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="bash" width="45" height="45"/>
 
 
-</p>
+
+<!--
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+-->
