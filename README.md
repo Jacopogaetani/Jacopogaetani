@@ -62,7 +62,10 @@ In my free time I like playing videogames, my favourites are **Persona 5** (As y
 </br>
 
 <!-- My contributions title -->
+
+
 <div align="center">
+<h2>What I’ve built out of passion</h2>
 <img src="immagini/persona5-akira-kurusu.gif" width="50%">
 </br>
 </br>
