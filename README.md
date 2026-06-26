@@ -32,7 +32,7 @@ In my free time I like playing videogames, my favourites are **Persona 5 and Per
 
 > [!Caution]
 >
-> Code is never finished, it only gets **better**.
+> I always try to do my **best**, but I'm still a **beginner**.
 >
 > What you see here is built with **practice**, **curiosity**, and **persistence**.
 
