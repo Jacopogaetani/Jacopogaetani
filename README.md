@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Jacopogaetani">
-    <img src="immagini/persona3/persona-3-menu.gif" alt="Banner"  style="width:200%; height:auto"/ >
+    <img src="immagini/persona3/moon.gif" alt="Banner"  style="width:200%; height:auto"/ >
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="justify">
 
-As a **3rd-year IT student** I’m absolutely in love with this field! There is nothing better than learning the 'why' behind the tech we use every day. My favorite subject right now is **Systems and Networks**, where we explore the inner workings of a PC. I can’t wait to start learning how computers communicate across networks in the coming years!
+As a **4th-year IT student** I’m absolutely in love with this field! There is nothing better than learning the 'why' behind the tech we use every day. My favorite subject right now is **Systems and Networks**, where we explore the inner workings of a PC. I can’t wait to start learning how computers communicate across networks in the coming years!
 
 I have a basic knowledge of procedural programming languages such as **C** and **C++**. I am currently studying **Object-Oriented Programming** in **Java**. I also have solid skills in **web design** using **HTML** and **CSS**. For my personal projects, I use **Linux-based operating systems** and have developed strong competencies in **Bash** and **ricing Hyprland**.
 
