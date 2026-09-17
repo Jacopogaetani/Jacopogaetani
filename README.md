@@ -48,7 +48,7 @@ In my free time I like playing videogames, my favourites are **Persona 5 and Per
 </br>
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacopogaetani&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
 
 
 <table align="center">
@@ -64,10 +64,11 @@ In my free time I like playing videogames, my favourites are **Persona 5 and Per
     </td>
     <!---->
     <td valign="top" width="55%">
-      <a href="https://github.com/Jacopogaetani/3Ai-2025-26"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=Jacopogaetani&repo=3Ai-2025-26&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" /></a>
-
+    
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jacopogaetani&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
-    </td>
+    
+    
+   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jacopogaetani&rank_icon=github&custom_title=My%20work%20so%20far%20%3A3&show_icons=true&include_all_commits=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=Jacopogaetani&rank_icon=github&custom_title=My%20work%20so%20far%20%3A3&show_icons=true&include_all_commits=true&theme=kacho_ga)
   </tr>
 </table>
 
