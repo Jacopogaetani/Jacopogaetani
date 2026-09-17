@@ -14,7 +14,7 @@
 
 
 <!-- Who am i? -->
-<img src="immagini/persona3/Happy Video Game Sticker by ATLUS West.gif" width=390 align="left">
+<img src="immagini/persona3/minato.jpg" width=390 align="left">
 <div align="center">
 
 **Who Am I?**
