@@ -26,7 +26,15 @@ As a **4th-year IT student** I’m absolutely in love with this field! There is 
 
 I have a basic knowledge of procedural programming languages such as **C** and **C++**. I am currently studying **Object-Oriented Programming** in **Java**. I also have solid skills in **web design** using **HTML** and **CSS**. For my personal projects, I use **Linux-based operating systems** and have developed strong competencies in **Bash** and **ricing Hyprland**. My goal is to work in **cybersecurity** field as a penetration tester.
 
+
+
+
+
 </div>
+
+</br>
+</br>
+
 
 > [!Caution]
 >
