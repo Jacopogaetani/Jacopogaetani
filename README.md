@@ -24,9 +24,7 @@
 
 As a **4th-year IT student** I’m absolutely in love with this field! There is nothing better than learning the 'why' behind the tech we use every day. My favorite subject right now is **Systems and Networks**, where we explore the inner workings of a PC. I can’t wait to start learning how computers communicate across networks in the coming years!
 
-I have a basic knowledge of procedural programming languages such as **C** and **C++**. I am currently studying **Object-Oriented Programming** in **Java**. I also have solid skills in **web design** using **HTML** and **CSS**. For my personal projects, I use **Linux-based operating systems** and have developed strong competencies in **Bash** and **ricing Hyprland**.
-
-In my free time I like playing videogames, my favourites are **Persona 5 and Persona 3** (As you might have understand from this readme :P ), and **Clair-Obscur: Expedition 33**. I play guitar and I am into punk music, my favourite bands are **Minor threat** (Straight Edge for life X), **Descendants** and **S.T**  
+I have a basic knowledge of procedural programming languages such as **C** and **C++**. I am currently studying **Object-Oriented Programming** in **Java**. I also have solid skills in **web design** using **HTML** and **CSS**. For my personal projects, I use **Linux-based operating systems** and have developed strong competencies in **Bash** and **ricing Hyprland**. My goal is to work in **cybersecurity** field as a penetration tester.
 
 </div>
 
